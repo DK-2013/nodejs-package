@@ -13,19 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hexlet-boilerplates/nodejs-package.git"
+    "url": "git+https://github.com/DK-2013/nodejs-package.git"
   },
-  "author": "Kirill Mokevnin",
+  "author": "Dmitry Kizilov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hexlet-boilerplates/nodejs-package/issues"
+    "url": "https://github.com/DK-2013/nodejs-package/issues"
   },
   "type": "module",
   "jest": {
     "testEnvironment": "node",
     "transform": {}
   },
-  "homepage": "https://github.com/hexlet-boilerplates/nodejs-package#readme",
+  "homepage": "https://github.com/DK-2013/nodejs-package#readme",
   "dependencies": {
     "debug": "^4.2.0",
     "lodash": "^4.17.20"

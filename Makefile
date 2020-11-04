@@ -16,6 +16,10 @@ lint:
 	npx eslint .
 
 publish:
-	npm publish
+	npm publish --dry-run
+
+republish:
+	npm publish --dry-run
+	npm link
 
 .PHONY: test
